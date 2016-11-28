@@ -10,7 +10,9 @@ public class Garagiste{
 		return this.nom ;
 	}
 
-
+	public void setNom(String nom){
+		this.nom=nom ;
+		}
 
 
 }
